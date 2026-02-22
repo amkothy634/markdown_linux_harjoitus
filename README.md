@@ -1,7 +1,7 @@
 # Markdown and Linux Exercise
 
 ## Author
-Your Name  
+Othy Mony  
 BEIRP24A6
 
 ## Content
